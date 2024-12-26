@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dohaa-dashboard/static/css/main.58590cbc.css",
+    "main.js": "/dohaa-dashboard/static/js/main.897b28f5.js",
+    "static/media/pro.jpg": "/dohaa-dashboard/static/media/pro.0b088655738e50fa036c.jpg",
+    "static/media/p1.png": "/dohaa-dashboard/static/media/p1.3764d736eaeb39f2aac2.png",
+    "index.html": "/dohaa-dashboard/index.html",
+    "main.58590cbc.css.map": "/dohaa-dashboard/static/css/main.58590cbc.css.map",
+    "main.897b28f5.js.map": "/dohaa-dashboard/static/js/main.897b28f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58590cbc.css",
+    "static/js/main.897b28f5.js"
+  ]
+}
